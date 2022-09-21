@@ -13,7 +13,7 @@ input[type="text"]{
     font-size: 30px;
 }
 input[type="button"]{
-    background-image: linear-gradient(red,blue);
+    background-image: linear-gradient(red,purple);
     color: white;
     margin: 10px;
     width: 150px;
