@@ -1,0 +1,36 @@
+.container{
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+    padding: 5px;
+    border: solid black 1px;
+}
+input[type="text"]{
+    width: 30px;
+}
+.title{
+    font-weight: bold;
+    font-size: 30px;
+}
+input[type="button"]{
+    background-image: linear-gradient(red,blue);
+    color: white;
+    margin: 10px;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+}
+#result{
+    font-size: 30px;
+}
+.true{
+    color:green;
+}
+.false{
+    color:red;
+}
+#lab1, #lab2{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
